@@ -36,14 +36,8 @@
       
         <nav class="sp-front-nav">
           <ul class="sp-front-menu">
-             <li><a href="../sustainability/" title="Sustainability At Osotspa" class="<?php echo ($P['ACTIVE']==1) ? "active":""; ?>">Sustainability At Osotspa</a></li>
-             <li><a href="../governance/" title="Governance" class="<?php echo ($P['ACTIVE']==2) ? "active":""; ?>">Governance</a></li>
-             <li><a href="../economic/" title="Economic" class="<?php echo ($P['ACTIVE']==3) ? "active":""; ?>">Economic</a></li>
-             <li><a href="../social/" title="Social" class="<?php echo ($P['ACTIVE']==4) ? "active":""; ?>">Social</a></li>
-             <li><a href="../environment/" title="Environment" class="<?php echo ($P['ACTIVE']==5) ? "active":""; ?>">Environment</a></li>
-             <li><a href="../policy/" title="Policy&document" class="<?php echo ($P['ACTIVE']==6) ? "active":""; ?>">Policy&document</a></li>
-             <li><a href="../reports/" title="sustainAbility reports" class="<?php echo ($P['ACTIVE']==7) ? "active":""; ?>">sustainAbility reports</a></li>
-             <li><a href="../contact/" title="Contact us" class="<?php echo ($P['ACTIVE']==8) ? "active":""; ?>">Contact us</a></li>
+             <li><a href="../social/" title="Social" class="<?php echo ($P['ACTIVE']==4) ? "active":""; ?>">Product</a></li>
+             <li><a href="../social/health-well-being-consumers" title="Social" class="<?php echo ($P['ACTIVE']==4) ? "active":""; ?>">Admin</a></li>
           </ul>
         </nav>
         
@@ -67,15 +61,8 @@
 
         <nav class="menu-area" id="mobi-menu-area">
         <ul class="menu-list">
-        	<li><a href="../../en/home/" title="English" style="color:#fff;">English</a></li>
-          <li><a href="../sustainability/" title="Sustainability At Osotspa" class="<?php echo ($P['ACTIVE']==1) ? "active":""; ?>">Sustainability At Osotspa</a></li>
-             <li><a href="../governance/" title="Governance" class="<?php echo ($P['ACTIVE']==2) ? "active":""; ?>">Governance</a></li>
-             <li><a href="../economic/" title="Economic" class="<?php echo ($P['ACTIVE']==3) ? "active":""; ?>">Economic</a></li>
-             <li><a href="../social/" title="Social" class="<?php echo ($P['ACTIVE']==4) ? "active":""; ?>">Social</a></li>
-             <li><a href="../environment/" title="Environment" class="<?php echo ($P['ACTIVE']==5) ? "active":""; ?>">Environment</a></li>
-             <li><a href="../policy/" title="Policy&document" class="<?php echo ($P['ACTIVE']==6) ? "active":""; ?>">Policy&document</a></li>
-             <li><a href="../reports/" title="sustainAbility reports" class="<?php echo ($P['ACTIVE']==7) ? "active":""; ?>">sustainAbility reports</a></li>
-             <li><a href="../contact/" title="Contact us" class="<?php echo ($P['ACTIVE']==8) ? "active":""; ?>">Contact us</a></li>
+        <li><a href="../social/" title="Social" class="<?php echo ($P['ACTIVE']==4) ? "active":""; ?>">Product</a></li>
+             <li><a href="../social/health-well-being-consumers" title="Social" class="<?php echo ($P['ACTIVE']==4) ? "active":""; ?>">Admin</a></li>
         </ul>
       </nav>
       </div>
